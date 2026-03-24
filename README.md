@@ -5,8 +5,6 @@
 [![Certifications](https://img.shields.io/badge/Cert-Azure_Fundamentals-blue)](https://www.credly.com/badges/ad8fdfb1-6b65-48ac-a8cb-80f2d9fe372b/linked_in)
 [![Target](https://img.shields.io/badge/Target-Google_SRE_%7C_NVIDIA-red)]()
 
----
-
 ## 🗂️ Lab Index
 
 | Folder                                       | What it covers                                         | Target Role               |
@@ -16,21 +14,17 @@
 | [`/sre-observability`](./sre-observability/) | Prometheus, Grafana, Alertmanager, SLO Engine, OTel    | G1, A1, N1                |
 | [`/ci-cd-pipeline`](./ci-cd-pipeline/)       | Jenkins + Groovy, ArgoCD, GitLab CI, Trivy             | A1 Arista                 |
 
----
-
 ## 🛠️ Core Stack
 
 ```
-Languages:   Python · Go · Bash · Groovy
+Languages:   Python · Go · C/C++
 Infra:       Kubernetes · Docker · Terraform · Ansible
-Observ.:     Prometheus · Grafana · OpenTelemetry · Datadog
+Observ.:     Prometheus · Grafana · OpenTelemetry
 Networking:  BGP · TCP/IP · LACP · VXLAN · DNS · PXE
 CI/CD:       Jenkins · ArgoCD · GitHub Actions · GitLab CI
 Cloud:       AWS (EKS, VPC, IAM) · GCP (GKE)
-Certs:       Azure Fundamentals → CKA (in progress)
+Certs:       Azure Fundamentals → AWS SAA-C03 (in progress)
 ```
-
----
 
 ## 🎯 Target Roles (2026)
 
@@ -40,8 +34,6 @@ Certs:       Azure Fundamentals → CKA (in progress)
 | SWE I — SRE         | Google — Sydney      | 4–6 months   |
 | Network SRE         | NVIDIA — Santa Clara | 18–24 months |
 
----
-
 ## 📈 Progress
 
 - [x] Repo created + structure defined
@@ -49,10 +41,8 @@ Certs:       Azure Fundamentals → CKA (in progress)
 - [ ] `/linux-internals` — kernel lab
 - [ ] `/sre-observability` — P1 Observability Platform
 - [ ] `/ci-cd-pipeline` — Jenkins Framework
-- [ ] CKA exam
+- [ ] AWS SAA-C03 exam
 - [ ] First technical post in English (LinkedIn)
-
----
 
 ## 📬 Contact
 
