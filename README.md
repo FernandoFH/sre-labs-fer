@@ -17,7 +17,7 @@
 ## 🛠️ Core Stack
 
 ```
-Languages:   Python · Go · C/C++
+Languages:   Python · Go · Js/Ts · C/C++
 Infra:       Kubernetes · Docker · Terraform · Ansible
 Observ.:     Prometheus · Grafana · OpenTelemetry
 Networking:  BGP · TCP/IP · LACP · VXLAN · DNS · PXE
