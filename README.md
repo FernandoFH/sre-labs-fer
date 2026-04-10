@@ -9,7 +9,7 @@
 
 | Folder                                       | What it covers                                         | Target Role               |
 | -------------------------------------------- | ------------------------------------------------------ | ------------------------- |
-| [`/network-labs`](./network-labs/)           | BGP, LACP, PXE Boot, Anycast, DNS, ISP troubleshooting | G2 Google Edge Networking |
+| [`/network-labs`](./network-labs/)           | Ethernet · TCP/IP · DNS · DHCP · VLANs · LACP · BGP · Anycast · VXLAN · PXE | G2 Google Edge Networking |
 | [`/linux-internals`](./linux-internals/)     | Kernel, namespaces, cgroups, /proc, syscalls, boot     | G1, G2, A1                |
 | [`/sre-observability`](./sre-observability/) | Prometheus, Grafana, Alertmanager, SLO Engine, OTel    | G1, A1, N1                |
 | [`/ci-cd-pipeline`](./ci-cd-pipeline/)       | Jenkins + Groovy, ArgoCD, GitLab CI, Trivy             | A1 Arista                 |
