@@ -14,20 +14,6 @@
 | [`/sre-observability`](./sre-observability/) | Prometheus, Grafana, Alertmanager, SLO Engine, OTel    | G1, A1, N1                |
 | [`/ci-cd-pipeline`](./ci-cd-pipeline/)       | Jenkins + Groovy, ArgoCD, GitLab CI, Trivy             | A1 Arista                 |
 
-## `/network-labs`
-
-| Lab                                          | What it covers                                    | Level        |
-| -------------------------------------------- | ------------------------------------------------- | ------------ |
-| [`01-ethernet-fundamentals`](./network-labs/) | Ethernet frames, MAC, ARP, switching, VLANs       | Foundational |
-| [`02-ip-subnetting`](./network-labs/)         | IPv4/IPv6, CIDR, subnetting, routing tables       | Foundational |
-| [`03-tcp-ip-deep-dive`](./network-labs/)      | TCP handshake, UDP, sockets, Wireshark analysis    | Foundational |
-| [`04-dns-dhcp-pxe`](./network-labs/)          | DNS resolution, DHCP leases, PXE boot lab          | Intermediate |
-| [`05-vlan-trunking-lacp`](./network-labs/)    | 802.1Q, trunk ports, LACP bonding, STP             | Intermediate |
-| [`06-routing-bgp`](./network-labs/)           | Static routes, OSPF basics, BGP peering, AS paths  | Advanced     |
-| [`07-anycast-cdn-edge`](./network-labs/)      | Anycast routing, CDN architecture, edge networking  | Advanced     |
-| [`08-network-troubleshooting`](./network-labs/) | tcpdump, traceroute, ss, iperf3, ISP escalation  | SRE Applied  |
-
-
 ## 🛠️ Core Stack
 
 ```
