@@ -7,36 +7,38 @@
 
 ## 🗂️ Lab Index
 
-| Folder                                       | What it covers                                         | Target Role               |
-| -------------------------------------------- | ------------------------------------------------------ | ------------------------- |
+| Folder                                       | What it covers                                                              | Target Role               |
+| -------------------------------------------- | --------------------------------------------------------------------------- | ------------------------- |
 | [`/network-labs`](./network-labs/)           | Ethernet · TCP/IP · DNS · DHCP · VLANs · LACP · BGP · Anycast · VXLAN · PXE | G2 Google Edge Networking |
-| [`/linux-internals`](./linux-internals/)     | Kernel, namespaces, cgroups, /proc, syscalls, boot     | G1, G2, A1                |
-| [`/sre-observability`](./sre-observability/) | Prometheus, Grafana, Alertmanager, SLO Engine, OTel    | G1, A1, N1                |
-| [`/ci-cd-pipeline`](./ci-cd-pipeline/)       | Jenkins + Groovy, ArgoCD, GitLab CI, Trivy             | A1 Arista                 |
+| [`/linux-internals`](./linux-internals/)     | Kernel, namespaces, cgroups, /proc, syscalls, boot                          | G1, G2, A1                |
+| [`/sre-observability`](./sre-observability/) | Prometheus, Grafana, Alertmanager, SLO Engine, OTel                         | G1, A1, N1                |
+| [`/ci-cd-pipeline`](./ci-cd-pipeline/)       | Jenkins + Groovy, ArgoCD, GitLab CI, Trivy                                  | A1 Arista                 |
 
 ## 🛠️ Core Stack
 
 ```
 Languages:   Python · Go · Js/Ts · C/C++
-Infra:       Kubernetes · Docker · Terraform · Ansible
-Observ.:     Prometheus · Grafana · OpenTelemetry
-Networking:  Ethernet · TCP/IP · DNS · DHCP · VLANs · LACP · BGP · Anycast · VXLAN · PXE
+OS & Shell:  Linux · Bash (processes, permissions, pkg mgmt)
+Tooling:     Git (branching, conflicts, remotes)
+Infra:       Kubernetes · Docker · Docker Compose · Terraform · Ansible · NGINX
+Networking:  Ethernet · TCP/IP · HTTP/HTTPS · DNS · DHCP · VLANs · LACP · BGP · Anycast · VXLAN · PXE
 CI/CD:       Jenkins · ArgoCD · GitHub Actions · GitLab CI
-Cloud:       AWS (EKS, VPC, IAM) · GCP (GKE)
+Cloud:       AWS (EC2, EKS, VPC, IAM, S3) · GCP (GKE)
+Observ.:     Prometheus · Grafana · OpenTelemetry · Alerting · K6
+Design:      System Design · Design Patterns · Refactoring
 Certs:       Azure Fundamentals → AWS SAA-C03 (in progress)
 ```
 
 ## 🎯 Target Roles (2026–2027)
 
-| Role                          | Company              | Location     | Timeline     |
-| ----------------------------- | -------------------- | ------------ | ------------ |
-| SDE Edge Networking           | Google               | Sydney       | 3–5 months   |
-| SWE I — SRE (G1)             | Google               | Sydney       | 4–6 months   |
-| SRE — Technical Infra (JD Master) | Google           | Sydney       | 3–5 months   |
-| Solutions Architect DevOps    | NVIDIA               | Sydney (Remote) | 10 months |
-| Network SRE                   | NVIDIA               | Santa Clara  | 18–24 months |
-| SRE HW Infrastructure        | NVIDIA               | Santa Clara  | 18–24 months |
-
+| Role                              | Company | Location        | Timeline     |
+| --------------------------------- | ------- | --------------- | ------------ |
+| SDE Edge Networking               | Google  | Sydney          | 3–5 months   |
+| SWE I — SRE (G1)                  | Google  | Sydney          | 4–6 months   |
+| SRE — Technical Infra (JD Master) | Google  | Sydney          | 3–5 months   |
+| Solutions Architect DevOps        | NVIDIA  | Sydney (Remote) | 10 months    |
+| Network SRE                       | NVIDIA  | Santa Clara     | 18–24 months |
+| SRE HW Infrastructure             | NVIDIA  | Santa Clara     | 18–24 months |
 
 ## 📈 Progress
 
